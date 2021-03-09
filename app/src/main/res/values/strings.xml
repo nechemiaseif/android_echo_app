@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Echo App</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_text_to_copy">Enter text to copy</string>
+    <string name="copied_text_will_appear_here">Copied text will appear here…</string>
+    <string name="copy">Copy</string>
+</resources>
